@@ -1,19 +1,46 @@
 
 
-/* #navbar {
-    background-color: #94AA7B;
-} */
-
-
-#head-shot {
-    display: inline;
+.navbar {
+    background-color: #8d968e;
 }
 
-#bio {
-    display: inline;
+a {
+    font-size: x-large;
+    /* font-weight: bold; */
+}
+
+.row {
+    margin-left: 15px;
+}
+
+section {
+    margin-left: 50px;
 }
 
 .about-me {
-    display: flex;
+    margin-top: 25px;
+    background-image: image();
 }
 
+#bio-div {
+    text-align: right;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+#head-shot {
+    margin-left: 15px;
+}
+
+#tech {
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+
+.projects {
+    margin-left: 50px;
+}
+
+.card {
+    margin: 25px;
+}
